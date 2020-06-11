@@ -1,4 +1,4 @@
-package com.example.verbose_octo_tribble
+package com.example.startup_namer
 
 import io.flutter.embedding.android.FlutterActivity
 
